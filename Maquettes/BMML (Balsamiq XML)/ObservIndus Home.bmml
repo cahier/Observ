@@ -1,0 +1,155 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1158" measuredH="603" mockupW="872" mockupH="570">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="286" y="33" w="872" h="570" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Observ%27Indus%20%u2212%20Accueil%0Ahttp%3A//obsevindus.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="901" y="170" w="252" h="383" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Point%20s%E9lectionn%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Canvas" x="286" y="105" w="870" h="38" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SearchBox" x="306" y="112" w="239" h="-1" measuredW="231" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Chercher%20par%20nom%2C%20topic%20ou%20adresse</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="289" y="137" w="866" h="444" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//imageshack.us/a/img16/2392/mapoi.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TagCloud" x="911" y="275" w="217" h="87" measuredW="350" measuredH="110" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>industrie%2C%20d%E9chet%2C%20fin-de-vie%2C%20%E9puration</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::FieldSet" x="911" y="257" w="233" h="104" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>10066329</color>
+        <text>Topics</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="923" y="325" w="-1" h="-1" measuredW="134" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>traitement-des-eaux</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="1057" y="326" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Link" x="909" y="519" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3C%3C%20plus%20d%27info</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Button" x="999" y="515" w="-1" h="-1" measuredW="150" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Demander%20partenariat</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="914" y="189" w="223" h="71" measuredW="308" measuredH="33" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Station%20d%27%E9puration%20Barberey</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::FieldSet" x="911" y="364" w="233" h="125" measuredW="200" measuredH="170" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>10066329</color>
+        <text>Carte%20de%20visite</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Paragraph" x="919" y="381" w="225" h="108" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%B0%20SIREN%20%3A%202ES2IEUMIETT89823%0AAdresse%20%3A%2034%20rue%20de%20le%20station%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2010200%20Barberey%20St%20Sulpice%0A%20%20%20%20%200345278713%0A%20%20%20%20%200345688921%0A%20%20%20%20%20partenaires@step.fr</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Label" x="914" y="490" w="-1" h="-1" measuredW="170" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20de%20partenariats%20%3A%2012</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Title" x="1032" y="113" w="-1" h="-1" measuredW="81" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <size>18</size>
+        <text>Mes%20infos</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Title" x="859" y="113" w="-1" h="-1" measuredW="135" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <size>18</size>
+        <text>Mes%20partenaires</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Icon" x="1119" y="112" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <icon>HLinesIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Icon" x="997" y="112" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <icon>ShareIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Icon" x="1131" y="181" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>XIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Title" x="753" y="112" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <size>18</size>
+        <text>Alertes</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="823" y="111" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <icon>SmallClockIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="837" y="116" w="-1" h="-1" measuredW="16" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>15658734</color>
+        <size>16</size>
+        <text>3</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Icon" x="920" y="463" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmailIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Icon" x="920" y="429" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PhoneDialIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Icon" x="920" y="445" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
