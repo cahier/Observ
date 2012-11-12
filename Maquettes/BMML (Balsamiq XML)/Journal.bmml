@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1158" measuredH="603" mockupW="872" mockupH="570">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="286" y="33" w="872" h="570" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Observ%27Indus%20%u2212%20Accueil%0Ahttp%3A//www.observindus.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="289" y="106" w="866" h="471" measuredW="1280" measuredH="695" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//imageshack.us/a/img16/2392/mapoi.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="347" y="154" w="444" h="374" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <text>Journal</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Calendar" x="367" y="219" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="367" y="348" w="409" h="125" measuredW="401" measuredH="173" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <borderStyle>none</borderStyle>
+        <text>Activit%E9/Flux%20%5E%2C%20Date%20%5E%2C%20Contenu%2C%20Entreprise%20v%0AMise%20en%20accord%20ProjetX%2C%2003/01/13%2C%20Lorem%20ipsum%2C%20R%27Troy%0AD%E9chets%20toxiques%2C%2030/05/11%2C%20Lorem%20ipsum%2C%20NucleoTech%0ANouveaux%20services%2C%2010/04/11%2C%20Lorem%20ipsum%2C%20TechU%0AEtablissement%20de%20flux%20Y%2C%2015/03/11%2C%20Lorem%20ipsum%2C%20UsineAub%0ARecyclage%20de%20Produit%20X%2C%2002/09/10%2C%20Lorem%20ipsum%2C%20Chimiska%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="367" y="184" w="255" h="20" measuredW="249" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Consultez%20les%20activit%E9s%20pass%E9es%20et%20avenir%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="709" y="488" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fermer</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="367" y="328" w="386" h="-1" measuredW="100" measuredH="10" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::VRule" x="478" y="217" w="-1" h="-1" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="587" y="219" w="110" h="-1" measuredW="89" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>NucleoTech</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="503" y="219" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="587" y="243" w="-1" h="-1" measuredW="138" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flux%20%3A%20D%E9chets%20toxiques</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="587" y="264" w="-1" h="-1" measuredW="98" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20%3A%2030/05/11</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="524" y="298" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="587" y="285" w="181" h="46" measuredW="323" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contenu%20%3A%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20edit.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="760" y="217" w="-1" h="-1" measuredW="16" measuredH="100" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HRule" x="367" y="204" w="386" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

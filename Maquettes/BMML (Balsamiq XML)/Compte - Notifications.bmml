@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="872" measuredH="570" mockupW="872" mockupH="570">
+  <controls>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::TabBar" x="204" y="125" w="465" h="405" measuredW="323" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%2CCompte%20-%20Activit%E9%26bm%3BCompte%20-%20Activit%E9.bmml%26bm%3BCompte%20-%20Activit%E9.bmml%26bm%3BCompte%20-%20Activit%E9.bmml%2CCompte%20-%20Notifications%26bm%3BCompte%20-%20Notifications.bmml%26bm%3BCompte%20-%20Notifications.bmml%26bm%3BCompte%20-%20Notifications.bmml%2CCompte%20-%20Profil%26bm%3BCompte%20-%20Profil.bmml%26bm%3BCompte%20-%20Profil.bmml%26bm%3BCompte%20-%20Profil.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22224%2C125%2C308%2C150%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%2271_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22308%2C125%2C366%2C150%22%20href%3D%22Compte%2520-%2520Activit%25C3%25A9.bmml%22%20alt%3D%22Compte%20-%20Activit%E9%22%20id%3D%2271_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C125%2C449%2C150%22%20href%3D%22Compte%2520-%2520Notifications.bmml%22%20alt%3D%22Compte%20-%20Notifications%22%20id%3D%2271_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22449%2C125%2C493%2C150%22%20href%3D%22Compte%2520-%2520Profil.bmml%22%20alt%3D%22Compte%20-%20Profil%22%20id%3D%2271_3%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Informations%2C%20Activit%E9%2C%20Notifications%2C%20Profil</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Icon" x="653" y="146" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22653%2C146%2C669%2C162%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%2278%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::FieldSet" x="213" y="157" w="440" h="275" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quelles%20notifications%20voulez-vous%20recevoir%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Button" x="555" y="488" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22555%2C488%2C653%2C515%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22131%22/%3E</map>
+        <text>Mettre%20%E0%20jour</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="222" y="177" w="-1" h="-1" measuredW="375" measuredH="63" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Partenariats%20%3A%20demande%20d%27ajout%2C%20de%20modification%20ou%20de%20suppression%0A%5B%20%5D%20Email%0A%5Bx%5D%20SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="222" y="267" w="-1" h="-1" measuredW="414" measuredH="63" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tagage%20participatif%20%3A%20demande%20d%27ajout%2C%20de%20modification%20ou%20de%20suppression%0A%5Bx%5D%20Email%0A%5B%5D%20SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="222" y="354" w="-1" h="-1" measuredW="341" measuredH="63" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Observ%27Indus%20%3A%20notifications%20li%E9es%20%E0%20votre%20compte%20sur%20le%20site%0A%5Bx%5D%20Email%0A%5Bx%5D%20SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::HRule" x="213" y="252" w="440" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::HRule" x="213" y="344" w="440" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="872" h="570" measuredW="872" measuredH="570" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C79%2C259%2C104%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C80%2C827%2C106%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22467%2C79%2C531%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C78%2C553%2C94%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22551%2C83%2C567%2C107%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22478%2C397%2C492%2C418%22%20href%3D%22Accueil%2520-%2520Entreprise%2520selectionnee.bmml%22%20alt%3D%22Accueil%20-%20Entreprise%20selectionnee%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%224%2C131%2C20%2C147%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2212%22/%3E</map>
+        <src>./assets/Header.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
