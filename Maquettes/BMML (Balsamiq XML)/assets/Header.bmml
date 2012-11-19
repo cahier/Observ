@@ -1,104 +1,109 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="872" measuredH="570" mockupW="872" mockupH="570">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="872" h="570" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Observ%27Indus%0Ahttp%3A//www.observindus.com</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="3" y="104" w="866" h="444" measuredW="866" measuredH="444" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="3" y="109" w="1017" h="630" measuredW="1017" measuredH="630" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>http%3A//jeremie-jalouzet.net23.net/osm1.png</src>
+        <src>http%3A//observ.hypertopic.org/images/map_01.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="72" w="870" h="38" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="71" w="1023" h="38" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="20" y="79" w="261" h="-1" measuredW="250" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="5" y="78" w="310" h="-1" measuredW="250" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
         <href>Recherche%26bm%3BRecherche.bmml%26bm%3BRecherche.bmml%26bm%3BRecherche.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C79%2C281%2C104%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E</map>
         <text>Chercher%20par%20nom%2C%20mot-cl%E9%20ou%20adresse</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="575" y="79" w="-1" h="-1" measuredW="258" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="918" y="78" w="-1" h="-1" measuredW="61" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22575%2C79%2C833%2C105%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C78%2C979%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E</map>
         <size>18</size>
-        <text>Station%20d%27%E9puration%20de%20Barberey</text>
+        <text>Dislaub</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="402" y="79" w="-1" h="-1" measuredW="135" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="741" y="78" w="-1" h="-1" measuredW="135" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <href>Mes%20partenaires%26bm%3BMes%20partenaires.bmml%26bm%3BMes%20partenaires.bmml%26bm%3BMes%20partenaires.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22402%2C79%2C537%2C105%22%20href%3D%22Mes%2520partenaires.bmml%22%20alt%3D%22Mes%20partenaires%22%20id%3D%225%22/%3E</map>
+        <href>Entreprise%20-%20Partenariats%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22741%2C78%2C876%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E</map>
         <size>18</size>
         <text>Mes%20partenaires</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="833" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="985" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
         <href>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml</href>
         <icon>HLinesIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22833%2C79%2C857%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22985%2C79%2C1009%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="540" y="78" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="879" y="77" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <href>Mes%20partenaires%26bm%3BMes%20partenaires.bmml%26bm%3BMes%20partenaires.bmml%26bm%3BMes%20partenaires.bmml</href>
+        <href>Entreprise%20-%20Partenariats%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml</href>
         <icon>ShareIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22540%2C78%2C564%2C102%22%20href%3D%22Mes%2520partenaires.bmml%22%20alt%3D%22Mes%20partenaires%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22879%2C77%2C903%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="296" y="78" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="626" y="77" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22296%2C78%2C360%2C104%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22626%2C77%2C690%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E</map>
         <size>18</size>
         <text>Alertes</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="366" y="77" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="696" y="76" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
         <icon>SmallClockIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22366%2C77%2C382%2C93%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C76%2C712%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="380" y="82" w="-1" h="-1" measuredW="16" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="710" y="81" w="-1" h="-1" measuredW="16" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>15658734</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22380%2C82%2C396%2C106%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22710%2C81%2C726%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E</map>
         <size>16</size>
         <text>3</text>
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="239" y="353" w="-1" h="-1" measuredW="20" measuredH="34" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="236" y="408" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Entreprise%20-%20Informations%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C353%2C259%2C387%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2215%22/%3E</map>
-        <src>./assets/map_icon.png</src>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22236%2C408%2C268%2C440%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2215%22/%3E</map>
+        <src>http%3A//observ.hypertopic.org/images/item_site-industriel.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="20" y="120" w="20" h="20" measuredW="48" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="20" y="120" w="20" h="20" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
         <href>Legende%26bm%3BLegende.bmml%26bm%3BLegende.bmml%26bm%3BLegende.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2217%22/%3E</map>
-        <src>./assets/arrow_right.png</src>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E</map>
+        <shape>roundRect</shape>
+        <size>12</size>
         <text/>
       </controlProperties>
     </control>
