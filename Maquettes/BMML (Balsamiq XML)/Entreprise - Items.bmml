@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="872" measuredH="570" mockupW="872" mockupH="570">
+  <controls>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="872" h="570" measuredW="872" measuredH="570" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C79%2C259%2C104%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22746%2C80%2C827%2C106%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22467%2C79%2C531%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22537%2C78%2C553%2C94%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22551%2C83%2C567%2C107%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C122%2C36%2C138%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2212%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22239%2C353%2C259%2C387%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2215%22/%3E</map>
+        <src>./assets/Header.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TabBar" x="395" y="123" w="465" h="405" measuredW="417" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Entreprise%20-%20Informations%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml%2CEntreprise%20-%20Commentaires%26bm%3BEntreprise%20-%20Commentaires.bmml%26bm%3BEntreprise%20-%20Commentaires.bmml%26bm%3BEntreprise%20-%20Commentaires.bmml%2CEntreprise%20-%20Items%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml%2CEntreprise%20-%20Statistiques%26bm%3BEntreprise%20-%20Statistiques.bmml%26bm%3BEntreprise%20-%20Statistiques.bmml%26bm%3BEntreprise%20-%20Statistiques.bmml%2CEntreprise%20-%20Journal%26bm%3BEntreprise%20-%20Journal.bmml%26bm%3BEntreprise%20-%20Journal.bmml%26bm%3BEntreprise%20-%20Journal.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22415%2C123%2C499%2C148%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2298_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22499%2C123%2C599%2C148%22%20href%3D%22Entreprise%2520-%2520Commentaires.bmml%22%20alt%3D%22Entreprise%20-%20Commentaires%22%20id%3D%2298_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22599%2C123%2C649%2C148%22%20href%3D%22Entreprise%2520-%2520Items.bmml%22%20alt%3D%22Entreprise%20-%20Items%22%20id%3D%2298_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22649%2C123%2C731%2C148%22%20href%3D%22Entreprise%2520-%2520Statistiques.bmml%22%20alt%3D%22Entreprise%20-%20Statistiques%22%20id%3D%2298_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22731%2C123%2C788%2C148%22%20href%3D%22Entreprise%2520-%2520Journal.bmml%22%20alt%3D%22Entreprise%20-%20Journal%22%20id%3D%2298_4%22/%3E%0A</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Informations%2C%20Commentaires%2C%20Items%2C%20Statistiques%2C%20Journal</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="402" y="149" w="435" h="35" measuredW="342" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Station%20d%27%E9puration%20de%20Barberey</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Icon" x="839" y="149" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22839%2C149%2C855%2C165%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22100%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="837" y="180" w="-1" h="333" measuredW="16" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::FieldSet" x="402" y="184" w="429" h="96" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sites%20industriels</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Link" x="410" y="199" w="-1" h="-1" measuredW="189" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Station%20d%27%E9puration%20de%20Barberey</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Paragraph" x="410" y="220" w="406" h="52" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Maecenas%20interdum%2C%20dui%20commodo%20scelerisque%20vulputate%2C%20elit%20est%20rhoncus%20urna%2C%20non%20mollis%20urna%20ante%20sed%20nibh.%20Suspendisse%20in%20quam%20sit%20amet%20nunc%20aliquam%20consequat%20non%20id%20est.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::FieldSet" x="402" y="287" w="429" h="105" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Produits</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Link" x="410" y="302" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cras%20condimentum</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Paragraph" x="410" y="323" w="406" h="24" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Suspendisse%20rutrum%20semper%20nunc%20ut%20pretium.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Link" x="410" y="347" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nam%20lectus%20orci</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Paragraph" x="410" y="368" w="406" h="24" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sed%20semper%20consectetur%20nisl%20ut%20consectetur.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::FieldSet" x="402" y="400" w="429" h="113" measuredW="200" measuredH="170" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Innovations%20%E9co-industrielles</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Link" x="410" y="415" w="-1" h="-1" measuredW="230" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pellentesque%20semper%20sapien%20bibendum%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Paragraph" x="410" y="436" w="406" h="70" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Curabitur%20quis%20nibh%20sit%20amet%20tortor%20mattis%20auctor%20vitae%20in%20nisl.%20Phasellus%20gravida%2C%20orci%20non%20lacinia%20vestibulum%2C%20arcu%20dui%20aliquam%20sapien%2C%20id%20cursus%20nisi%20nisl%20eu%20dolor.%20Maecenas%20tempor%20massa%20leo.%20Aenean%20ac%20tellus%20non%20tortor%20tincidunt%20consectetur%20vel%20sit%20amet%20ante.%20Nam%20vitae%20tincidunt%20urna.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
