@@ -1,0 +1,102 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::FieldSet" x="279" y="285" w="438" h="265" measuredW="200" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ajouter%20un%20commentaire</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Button" x="433" y="508" w="98" h="27" measuredW="71" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>VISITEUR%20-%20Entreprise%20-%20Commentaires%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22433%2C508%2C531%2C535%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Commentaires.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Commentaires%22%20id%3D%22126%22/%3E</map>
+        <text>Envoyer</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="307" y="322" w="126" h="28" measuredW="67" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Votre%20nom</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="307" y="362" w="84" h="44" measuredW="118" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Votre%20commentaire</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Icon" x="686" y="298" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>VISITEUR%20-%20Entreprise%20-%20Commentaires%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22686%2C298%2C702%2C314%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Commentaires.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Commentaires%22%20id%3D%22131%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::TextInput" x="406" y="323" w="172" h="-1" measuredW="101" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Martin%20DUPONT</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::TextArea" x="406" y="362" w="289" h="131" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bla%20bla%20bla...</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22419%2C446%2C480%2C507%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C77%2C1009%2C103%22%20href%3D%22Inscription.bmml%22%20alt%3D%22Inscription%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C77%2C907%2C103%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22236%2C408%2C307%2C515%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2215%22/%3E</map>
+        <src>./assets/Header%20(Visiteur).bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::TabBar" x="466" y="118" w="545" h="341" measuredW="492" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>VISITEUR%20-%20Entreprise%20-%20Infos%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml%2CVISITEUR%20-%20Entreprise%20-%20Commentaires%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Commentaires.bmml%2CVISITEUR%20-%20Entreprise%20-%20Items%26bm%3BVISITEUR%20-%20Entreprise%20-%20Items.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Items.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Items.bmml%2CVISITEUR%20-%20Entreprise%20-%20Partenariats%26bm%3BVISITEUR%20-%20Entreprise%20-%20Partenariats.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Partenariats.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Partenariats.bmml%2CVISITEUR%20-%20Entreprise%20-%20Statistiques%26bm%3BVISITEUR%20-%20Entreprise%20-%20Statistiques.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Statistiques.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Statistiques.bmml%2CVISITEUR%20-%20Entreprise%20-%20Journal%26bm%3BVISITEUR%20-%20Entreprise%20-%20Journal.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Journal.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Journal.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C118%2C570%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Infos.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Infos%22%20id%3D%22138_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C118%2C670%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Commentaires.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Commentaires%22%20id%3D%22138_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22670%2C118%2C720%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Items.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Items%22%20id%3D%22138_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22720%2C118%2C805%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Partenariats%22%20id%3D%22138_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22805%2C118%2C887%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Statistiques.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Statistiques%22%20id%3D%22138_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C118%2C944%2C143%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Journal.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Journal%22%20id%3D%22138_5%22/%3E%0A</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Informations%2C%20Commentaires%2C%20Items%2C%20Partenariats%2C%20Statistiques%2C%20Journal</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Icon" x="990" y="144" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>VISITEUR%20-%20Accueil%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C144%2C1006%2C160%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%22139%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Label" x="474" y="144" w="510" h="35" measuredW="79" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Dislaub</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::FieldSet" x="474" y="175" w="525" h="141" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ajout%E9%20par%20MONSIEUR%20X%20le%2019/11/2012</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Button" x="775" y="420" w="224" h="31" measuredW="187" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CircledPlusIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <state>up</state>
+        <text>Ajouter%20un%20commentaire</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Paragraph" x="482" y="190" w="502" h="118" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Praesent%20tincidunt%20accumsan%20ligula%2C%20non%20iaculis%20nibh%20ornare%20ac.%20Ut%20eget%20lectus%20nunc%2C%20non%20luctus%20sapien.%20Morbi%20eget%20interdum%20mi.%20Donec%20mattis%20auctor%20auctor.%20Nunc%20vitae%20orci%20sed%20ligula%20laoreet%20tempor.%20Fusce%20in%20lorem%20ut%20elit%20vulputate%20vulputate.%20In%20ut%20erat%20magna%2C%20sit%20amet%20vulputate%20arcu.%20Suspendisse%20turpis%20nulla%2C%20fringilla%20eget%20dignissim%20eu%2C%20elementum%20quis%20lorem.%20Curabitur%20et%20justo%20quis%20sapien%20euismod%20iaculis%20pretium%20at%20purus.%20Vivamus%20eget%20neque%20elit%2C%20ac%20semper%20lectus.%20Nam%20rutrum%20lorem%20ac%20arcu%20commodo%20commodo.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::FieldSet" x="474" y="323" w="525" h="89" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ajout%E9%20par%20MONSIEUR%20Y%20le%2018/11/2012</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Paragraph" x="482" y="338" w="508" h="67" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nulla%20quam%20odio%2C%20tincidunt%20at%20consectetur%20et%2C%20semper%20sed%20lectus.%20Integer%20in%20rhoncus%20odio.%20Maecenas%20neque%20erat%2C%20pretium%20eget%20vehicula%20at%2C%20porttitor%20ut%20diam.%20Nullam%20non%20lacus%20massa.%20Donec%20scelerisque%20augue%20feugiat%20lorem%20rutrum%20malesuada.</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="103" w="1020" h="637" measuredW="320" measuredH="240" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

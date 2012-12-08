@@ -2,11 +2,11 @@
   <controls>
     <control controlID="97" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C78%2C979%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22741%2C78%2C876%2C104%22%20href%3D%22Mes%2520partenaires.bmml%22%20alt%3D%22Mes%20partenaires%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22985%2C79%2C1009%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22879%2C77%2C903%2C101%22%20href%3D%22Mes%2520partenaires.bmml%22%20alt%3D%22Mes%20partenaires%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22626%2C77%2C690%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C76%2C712%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22710%2C81%2C726%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22236%2C408%2C268%2C440%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2217%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C78%2C979%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22741%2C78%2C876%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22985%2C79%2C1009%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22879%2C77%2C903%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22626%2C77%2C690%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C76%2C712%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22710%2C81%2C726%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E</map>
         <src>./assets/Header.bmml</src>
       </controlProperties>
     </control>
-    <control controlID="98" controlTypeID="com.balsamiq.mockups::TabBar" x="466" y="118" w="545" h="529" measuredW="492" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TabBar" x="466" y="118" w="545" h="334" measuredW="492" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>Entreprise%20-%20Informations%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml%26bm%3BEntreprise%20-%20Informations.bmml%2CEntreprise%20-%20Commentaires%26bm%3BEntreprise%20-%20Commentaires.bmml%26bm%3BEntreprise%20-%20Commentaires.bmml%26bm%3BEntreprise%20-%20Commentaires.bmml%2CEntreprise%20-%20Items%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml%2CEntreprise%20-%20Partenariats%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%2CEntreprise%20-%20Statistiques%26bm%3BEntreprise%20-%20Statistiques.bmml%26bm%3BEntreprise%20-%20Statistiques.bmml%26bm%3BEntreprise%20-%20Statistiques.bmml%2CEntreprise%20-%20Journal%26bm%3BEntreprise%20-%20Journal.bmml%26bm%3BEntreprise%20-%20Journal.bmml%26bm%3BEntreprise%20-%20Journal.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C118%2C570%2C143%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2298_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C118%2C670%2C143%22%20href%3D%22Entreprise%2520-%2520Commentaires.bmml%22%20alt%3D%22Entreprise%20-%20Commentaires%22%20id%3D%2298_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22670%2C118%2C720%2C143%22%20href%3D%22Entreprise%2520-%2520Items.bmml%22%20alt%3D%22Entreprise%20-%20Items%22%20id%3D%2298_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22720%2C118%2C805%2C143%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%2298_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22805%2C118%2C887%2C143%22%20href%3D%22Entreprise%2520-%2520Statistiques.bmml%22%20alt%3D%22Entreprise%20-%20Statistiques%22%20id%3D%2298_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22887%2C118%2C944%2C143%22%20href%3D%22Entreprise%2520-%2520Journal.bmml%22%20alt%3D%22Entreprise%20-%20Journal%22%20id%3D%2298_5%22/%3E%0A</map>
@@ -14,7 +14,7 @@
         <text>Informations%2C%20Commentaires%2C%20Items%2C%20Partenariats%2C%20Statistiques%2C%20Journal</text>
       </controlProperties>
     </control>
-    <control controlID="100" controlTypeID="com.balsamiq.mockups::Icon" x="990" y="144" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Icon" x="990" y="144" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
@@ -22,17 +22,20 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C144%2C1006%2C160%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22100%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="474" y="144" w="510" h="35" measuredW="79" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="474" y="144" w="510" h="35" measuredW="79" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
         <text>Dislaub</text>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::DataGrid" x="474" y="179" w="525" h="453" measuredW="529" measuredH="283" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::DataGrid" x="472" y="194" w="530" h="243" measuredW="604" measuredH="216" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
-        <rowHeight>65</rowHeight>
-        <text>Item%20source%20%5Ev%2C%20Item%20cible%20%5Ev%2C%20Type%20de%20flux%20%5Ev%2C%20Description%0A_Trois%20carottes%5CrVente%20de%20l%E9gumes_%2C%20Carrefour%5CrCentre%20commercial%2C%20Fournisseur%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0A_Trois%20carottes%5CrVente%20de%20l%E9gumes_%2C%20Cartouche%20cartouche%5CrCartouches%20d%27encre%2C%20Recyclage%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0ARocade%20Ouest%20%28Colas%29%5CrEnrob%E9%20%E9cologique%2C%20_Jardi%203_%2C%20Entretien%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0A_Trois%20carottes%5CrVente%20de%20l%E9gumes_%2C%20La%20bonne%20boue%5Cr%C9limination%20de%20d%E9chets%2C%20Incin%E9ration%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D</text>
+        <hLines>true</hLines>
+        <rowHeight>49</rowHeight>
+        <size>11</size>
+        <text>Partenaire%20%5Ev%2C%20Item%20source%20%5Ev%2C%20Item%20cible%20%5Ev%2C%20Type%20de%20flux%20%5Ev%2C%20Description%0A_%5BEntreprise1%5D_%2C%20_Site%20industriel_%2C%20Innovation%20%E9co-industrielle%2C%20Synergie%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0A_%5BEntreprise2%5D_%2C%20_Produits_%2C%20Site%20industriel%2CSynergie%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0A_%5BEntreprise3%5D_%2C%20%20innovation%20%E9co-industrielle%2C%20_Produit_%2C%20Mutualisation%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D%0A_%5BEntreprise4%5D_%2CInnovation%20%E9co-industrielle_%2CSite%20industrie%2CMutualisation%2C%20Bla%20bla%20bla...%2C%20%5BModifier%5D</text>
+        <vLines>true</vLines>
       </controlProperties>
     </control>
   </controls>

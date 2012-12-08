@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Observ%27Indus%0Ahttp%3A//www.observindus.com</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="3" y="109" w="1017" h="630" measuredW="1017" measuredH="630" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//observ.hypertopic.org/images/map_01.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="71" w="1023" h="38" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SearchBox" x="5" y="78" w="310" h="-1" measuredW="250" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <href>VISITEUR%20-%20Recherche%26bm%3BVISITEUR%20-%20Recherche.bmml%26bm%3BVISITEUR%20-%20Recherche.bmml%26bm%3BVISITEUR%20-%20Recherche.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22VISITEUR%2520-%2520Recherche.bmml%22%20alt%3D%22VISITEUR%20-%20Recherche%22%20id%3D%227%22/%3E</map>
+        <text>Chercher%20par%20nom%2C%20mot-cl%E9%20ou%20adresse</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="820" y="77" w="-1" h="-1" measuredW="87" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C77%2C907%2C103%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228%22/%3E</map>
+        <size>18</size>
+        <text>Connexion</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="263" y="418" w="36" h="54" measuredW="71" measuredH="107" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>VISITEUR%20-%20Entreprise%20-%20Infos%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml%26bm%3BVISITEUR%20-%20Entreprise%20-%20Infos.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Infos.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Infos%22%20id%3D%2215%22/%3E</map>
+        <src>http%3A//observ.hypertopic.org/images/item_site-industriel.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::RoundButton" x="20" y="120" w="20" h="20" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <href>VISITEUR%20-%20Legende%26bm%3BVISITEUR%20-%20Legende.bmml%26bm%3BVISITEUR%20-%20Legende.bmml%26bm%3BVISITEUR%20-%20Legende.bmml</href>
+        <icon>RightFillTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22VISITEUR%2520-%2520Legende.bmml%22%20alt%3D%22VISITEUR%20-%20Legende%22%20id%3D%2216%22/%3E</map>
+        <shape>roundRect</shape>
+        <size>12</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="416" y="440" w="32" h="32" measuredW="61" measuredH="61" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>VISITEUR%20-%20Item%20-%20Informations%26bm%3BVISITEUR%20-%20Item%20-%20Informations.bmml%26bm%3BVISITEUR%20-%20Item%20-%20Informations.bmml%26bm%3BVISITEUR%20-%20Item%20-%20Informations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22VISITEUR%2520-%2520Item%2520-%2520Informations.bmml%22%20alt%3D%22VISITEUR%20-%20Item%20-%20Informations%22%20id%3D%2217%22/%3E</map>
+        <src>http%3A//observ.hypertopic.org/images/item_initiative.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Title" x="922" y="77" w="87" h="-1" measuredW="85" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <href>Inscription%26bm%3BInscription.bmml%26bm%3BInscription.bmml%26bm%3BInscription.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C77%2C1009%2C103%22%20href%3D%22Inscription.bmml%22%20alt%3D%22Inscription%22%20id%3D%2218%22/%3E</map>
+        <size>18</size>
+        <text>Inscription</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

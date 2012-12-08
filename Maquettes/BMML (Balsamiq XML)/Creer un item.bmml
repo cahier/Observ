@@ -1,0 +1,73 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="443" y="588" w="98" h="27" measuredW="92" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Entreprise%20-%20Items%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml%26bm%3BEntreprise%20-%20Items.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22443%2C588%2C541%2C615%22%20href%3D%22Entreprise%2520-%2520Items.bmml%22%20alt%3D%22Entreprise%20-%20Items%22%20id%3D%2232%22/%3E</map>
+        <text>Cr%E9er%20l%27item</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="307" y="322" w="126" h="28" measuredW="43" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Intitul%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="307" y="447" w="111" h="25" measuredW="69" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22797%2C78%2C858%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22620%2C78%2C755%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C79%2C888%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C77%2C782%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22505%2C77%2C569%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22575%2C76%2C591%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C81%2C605%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C77%2C1009%2C103%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%2227%22/%3E</map>
+        <src>./assets/Header.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="307" y="365" w="126" h="28" measuredW="36" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::ComboBox" x="406" y="365" w="172" h="-1" measuredW="109" measuredH="62" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Site%20industriel%0AProduit%0AInnovation%20%E9co-industrielle</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::FieldSet" x="279" y="285" w="438" h="348" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cr%E9er%20un%20item</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="103" w="1020" h="637" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Icon" x="686" y="298" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22686%2C298%2C702%2C314%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22129%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::StickyNote" x="89" y="191" w="163" h="94" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Il%20est%20possible%20de%20cr%E9er%20un%20item%20en%20double%20cliquant%20sur%20la%20carte.</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Image" x="129" y="298" w="-1" h="-1" measuredW="20" measuredH="34" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//observ.hypertopic.org/images/icon_map.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::TextInput" x="406" y="323" w="172" h="-1" measuredW="119" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enrob%E9%20%E9cologique</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::TextArea" x="406" y="442" w="289" h="131" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bla%20bla%20bla...</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
