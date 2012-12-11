@@ -26,63 +26,63 @@
         <text>Chercher%20par%20nom%2C%20mot-cl%E9%20ou%20adresse</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="797" y="78" w="-1" h="-1" measuredW="61" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="918" y="78" w="-1" h="-1" measuredW="61" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
-        <href>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22797%2C78%2C858%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E</map>
+        <href>Accueil%20-%20Menu%26bm%3BAccueil%20-%20Menu.bmml%26bm%3BAccueil%20-%20Menu.bmml%26bm%3BAccueil%20-%20Menu.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C78%2C979%2C104%22%20href%3D%22Accueil%2520-%2520Menu.bmml%22%20alt%3D%22Accueil%20-%20Menu%22%20id%3D%224%22/%3E</map>
         <size>18</size>
         <text>Dislaub</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="620" y="78" w="-1" h="-1" measuredW="135" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="741" y="78" w="-1" h="-1" measuredW="135" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Entreprise%20-%20Partenariats%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22620%2C78%2C755%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22741%2C78%2C876%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E</map>
         <size>18</size>
         <text>Mes%20partenaires</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="864" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="985" y="79" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
-        <href>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml</href>
+        <href>Accueil%20-%20Menu%26bm%3BAccueil%20-%20Menu.bmml%26bm%3BAccueil%20-%20Menu.bmml%26bm%3BAccueil%20-%20Menu.bmml</href>
         <icon>HLinesIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C79%2C888%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22985%2C79%2C1009%2C103%22%20href%3D%22Accueil%2520-%2520Menu.bmml%22%20alt%3D%22Accueil%20-%20Menu%22%20id%3D%226%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="758" y="77" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="879" y="77" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Entreprise%20-%20Partenariats%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml%26bm%3BEntreprise%20-%20Partenariats.bmml</href>
         <icon>ShareIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C77%2C782%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22879%2C77%2C903%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="505" y="77" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="626" y="77" w="-1" h="-1" measuredW="64" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22505%2C77%2C569%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22626%2C77%2C690%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E</map>
         <size>18</size>
         <text>Alertes</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="76" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="696" y="76" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
         <icon>SmallClockIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22575%2C76%2C591%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C76%2C712%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="589" y="81" w="-1" h="-1" measuredW="16" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="710" y="81" w="-1" h="-1" measuredW="16" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>15658734</color>
         <href>Alertes%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml%26bm%3BAlertes.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C81%2C605%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22710%2C81%2C726%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E</map>
         <size>16</size>
         <text>3</text>
         <underline>false</underline>
@@ -113,15 +113,6 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E</map>
         <src>http%3A//observ.hypertopic.org/images/item_initiative.png</src>
         <text/>
-      </controlProperties>
-    </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Title" x="903" y="77" w="-1" h="-1" measuredW="106" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>14540253</color>
-        <href>VISITEUR%20-%20Accueil%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C77%2C1009%2C103%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%2227%22/%3E</map>
-        <size>18</size>
-        <text>D%E9connexion</text>
       </controlProperties>
     </control>
   </controls>

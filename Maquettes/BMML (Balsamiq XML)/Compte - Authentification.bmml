@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::TabBar" x="280" y="182" w="465" h="405" measuredW="380" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Compte%20-%20Informations%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%26bm%3BCompte%20-%20Informations.bmml%2CCompte%20-%20Activit%E9%26bm%3BCompte%20-%20Activit%E9.bmml%26bm%3BCompte%20-%20Activit%E9.bmml%26bm%3BCompte%20-%20Activit%E9.bmml%2CCompte%20-%20Notifications%26bm%3BCompte%20-%20Notifications.bmml%26bm%3BCompte%20-%20Notifications.bmml%26bm%3BCompte%20-%20Notifications.bmml%2CCompte%20-%20Profil%26bm%3BCompte%20-%20Profil.bmml%26bm%3BCompte%20-%20Profil.bmml%26bm%3BCompte%20-%20Profil.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22300%2C182%2C384%2C207%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%22133_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22384%2C182%2C442%2C207%22%20href%3D%22Compte%2520-%2520Activit%25C3%25A9.bmml%22%20alt%3D%22Compte%20-%20Activit%E9%22%20id%3D%22133_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22442%2C182%2C525%2C207%22%20href%3D%22Compte%2520-%2520Notifications.bmml%22%20alt%3D%22Compte%20-%20Notifications%22%20id%3D%22133_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22525%2C182%2C626%2C207%22%20href%3D%22Compte%2520-%2520Profil.bmml%22%20alt%3D%22Compte%20-%20Profil%22%20id%3D%22133_3%22/%3E%0A</map>
+        <selectedIndex>3</selectedIndex>
+        <text>Informations%2C%20Activit%E9%2C%20Notifications%2C%20Authentification</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Icon" x="729" y="203" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22729%2C203%2C745%2C219%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22140%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::FieldSet" x="289" y="214" w="440" h="141" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mot%20de%20passe</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Label" x="298" y="231" w="-1" h="-1" measuredW="122" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mot%20de%20passe%20actuel</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::TextInput" x="447" y="228" w="276" h="-1" measuredW="79" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="298" y="261" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nouveau%20mot%20de%20passe</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::TextInput" x="447" y="258" w="276" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="298" y="292" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirmation</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::TextInput" x="447" y="289" w="276" h="-1" measuredW="79" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Button" x="298" y="321" w="-1" h="-1" measuredW="181" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22298%2C321%2C479%2C348%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22151%22/%3E</map>
+        <text>Changer%20mon%20mot%20de%20passe</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::FieldSet" x="289" y="363" w="440" h="101" measuredW="200" measuredH="170" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Supprimer%20mon%20compte</text>
+      </controlProperties>
+    </control>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Button" x="298" y="429" w="181" h="27" measuredW="155" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Supprimer%20mon%20compte</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::TextArea" x="298" y="378" w="425" h="45" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <italic>true</italic>
+        <state>focused</state>
+        <text>Attention%2C%20toute%20suppression%20de%20compte%20est%20d%E9finitive.%0AToutes%20vos%20donn%E9es%20seront%20perdues.</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22797%2C78%2C858%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22620%2C78%2C755%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C79%2C888%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C77%2C782%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22505%2C77%2C569%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22575%2C76%2C591%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C81%2C605%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C77%2C1009%2C103%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%2227%22/%3E</map>
+        <src>./assets/Header.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
