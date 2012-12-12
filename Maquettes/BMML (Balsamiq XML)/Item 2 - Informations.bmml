@@ -1,0 +1,85 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22918%2C78%2C979%2C104%22%20href%3D%22Accueil%2520-%2520Menu.bmml%22%20alt%3D%22Accueil%20-%20Menu%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22741%2C78%2C876%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22985%2C79%2C1009%2C103%22%20href%3D%22Accueil%2520-%2520Menu.bmml%22%20alt%3D%22Accueil%20-%20Menu%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22879%2C77%2C903%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22626%2C77%2C690%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22696%2C76%2C712%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22710%2C81%2C726%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E</map>
+        <src>./assets/Header.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::FieldSet" x="475" y="284" w="527" h="97" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mots-cl%E9s</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::TagCloud" x="492" y="309" w="475" h="33" measuredW="350" measuredH="110" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>bitume%20recyclage%20application-a-froid</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::TextInput" x="643" y="342" w="318" h="-1" measuredW="63" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>s%E9chage</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Icon" x="961" y="342" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::FieldSet" x="475" y="179" w="529" h="94" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20propos%20du%20produit</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="492" y="345" w="151" h="21" measuredW="129" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Proposer%20un%20mot-cl%E9%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Paragraph" x="481" y="199" w="510" h="74" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Emulsion%20de%20bitume%2C%20routi%E8re%2C%20%E9cologique%2C%20%E0%20froid%2C%20pour%20enduction%20de%20chauss%E9e%20%28apllication%20de%20gravilon%20sur%20l%27%E9mulsion%20fraichement%20r%E9pandue%29%2C%20mais%20aussi%20pour%20r%E9parer%20fissures%2C%20crevasses...%20ainsi%20que%20pour%20appliquer%20en%20primaire%20d%27accrochage%20avant%20la%20pose%20de%20rev%EAtement%20hydrocarbon%E9s%2C%20%E0%20chaud%20ou%20%E0%20froid.%20Coloris%20Noir.</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="474" y="144" w="510" h="35" measuredW="296" measuredH="33" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Dislaub%20%3A%20Enrob%E9%20%C9cologique</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::TabBar" x="466" y="118" w="545" h="351" measuredW="337" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Item%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml%2CItem%20-%20Commentaires%26bm%3BItem%20-%20Commentaires.bmml%26bm%3BItem%20-%20Commentaires.bmml%26bm%3BItem%20-%20Commentaires.bmml%2CItem%20-%20Autres%20items%26bm%3BItem%20-%20Autres%20items.bmml%26bm%3BItem%20-%20Autres%20items.bmml%26bm%3BItem%20-%20Autres%20items.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22486%2C118%2C570%2C143%22%20href%3D%22Item%25202%2520-%2520Enrob%25C3%25A9%2520%25C3%2589cologique%2520-%2520Informations.bmml%22%20alt%3D%22Item%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations%22%20id%3D%22118_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22570%2C118%2C670%2C143%22%20href%3D%22Item%2520-%2520Commentaires.bmml%22%20alt%3D%22Item%20-%20Commentaires%22%20id%3D%22118_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22670%2C118%2C759%2C143%22%20href%3D%22Item%2520-%2520Autres%2520items.bmml%22%20alt%3D%22Item%20-%20Autres%20items%22%20id%3D%22118_2%22/%3E%0A</map>
+        <selectedIndex>0</selectedIndex>
+        <text>Informations%2C%20Commentaires%2C%20Autres%20items</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Icon" x="990" y="144" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22990%2C144%2C1006%2C160%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%22119%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Image" x="319" y="365" w="36" h="36" measuredW="53" measuredH="49" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Item%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml%26bm%3BItem%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C365%2C355%2C401%22%20href%3D%22Item%25202%2520-%2520Enrob%25C3%25A9%2520%25C3%2589cologique%2520-%2520Informations.bmml%22%20alt%3D%22Item%202%20-%20Enrob%E9%20%C9cologique%20-%20Informations%22%20id%3D%22120%22/%3E</map>
+        <src>http%3A//observ.hypertopic.org/images/item_produit-ou-service.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::FieldSet" x="475" y="390" w="527" h="64" measuredW="200" measuredH="170" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Partenariats</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Label" x="492" y="415" w="199" h="21" measuredW="163" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20de%20partenariats%20%3A%200</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

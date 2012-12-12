@@ -42,12 +42,6 @@
       </controlProperties>
     </control>
     <control controlID="146" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="103" w="1020" h="637" measuredW="320" measuredH="240" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22Recherche.bmml%22%20alt%3D%22Recherche%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22797%2C78%2C858%2C104%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22620%2C78%2C755%2C104%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22864%2C79%2C888%2C103%22%20href%3D%22Compte%2520-%2520Informations.bmml%22%20alt%3D%22Compte%20-%20Informations%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22758%2C77%2C782%2C101%22%20href%3D%22Entreprise%2520-%2520Partenariats.bmml%22%20alt%3D%22Entreprise%20-%20Partenariats%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22505%2C77%2C569%2C103%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22575%2C76%2C591%2C92%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C81%2C605%2C105%22%20href%3D%22Alertes.bmml%22%20alt%3D%22Alertes%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22Legende.bmml%22%20alt%3D%22Legende%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22Entreprise%2520-%2520Informations.bmml%22%20alt%3D%22Entreprise%20-%20Informations%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22Item%2520-%2520Informations.bmml%22%20alt%3D%22Item%20-%20Informations%22%20id%3D%2226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C77%2C1009%2C103%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%2227%22/%3E</map>
-        <src>./assets/Header.bmml</src>
-      </controlProperties>
-    </control>
     <control controlID="148" controlTypeID="com.balsamiq.mockups::TabBar" x="466" y="118" w="545" h="348" measuredW="337" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>Item%20-%20Informations%26bm%3BItem%20-%20Informations.bmml%26bm%3BItem%20-%20Informations.bmml%26bm%3BItem%20-%20Informations.bmml%2CItem%20-%20Commentaires%26bm%3BItem%20-%20Commentaires.bmml%26bm%3BItem%20-%20Commentaires.bmml%26bm%3BItem%20-%20Commentaires.bmml%2CItem%20-%20Autres%20items%26bm%3BItem%20-%20Autres%20items.bmml%26bm%3BItem%20-%20Autres%20items.bmml%26bm%3BItem%20-%20Autres%20items.bmml</hrefs>
@@ -96,6 +90,12 @@
     <control controlID="155" controlTypeID="com.balsamiq.mockups::Paragraph" x="482" y="338" w="508" h="67" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Nulla%20quam%20odio%2C%20tincidunt%20at%20consectetur%20et%2C%20semper%20sed%20lectus.%20Integer%20in%20rhoncus%20odio.%20Maecenas%20neque%20erat%2C%20pretium%20eget%20vehicula%20at%2C%20porttitor%20ut%20diam.%20Nullam%20non%20lacus%20massa.%20Donec%20scelerisque%20augue%20feugiat%20lorem%20rutrum%20malesuada.</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22VISITEUR%2520-%2520Legende.bmml%22%20alt%3D%22VISITEUR%20-%20Legende%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22VISITEUR%2520-%2520Item%2520-%2520Informations.bmml%22%20alt%3D%22VISITEUR%20-%20Item%20-%20Informations%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C77%2C1009%2C103%22%20href%3D%22Inscription.bmml%22%20alt%3D%22Inscription%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22VISITEUR%2520-%2520Recherche.bmml%22%20alt%3D%22VISITEUR%20-%20Recherche%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C77%2C907%2C103%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Infos.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Infos%22%20id%3D%2215%22/%3E</map>
+        <src>./assets/Header%20(Visiteur).bmml</src>
       </controlProperties>
     </control>
   </controls>

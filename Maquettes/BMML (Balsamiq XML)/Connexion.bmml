@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="197" y="244" w="630" h="280" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="419" y="268" w="-1" h="-1" measuredW="186" measuredH="50" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connexion</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="475" y="343" w="210" h="-1" measuredW="64" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Dislaub</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="372" y="346" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Identifiant</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="475" y="395" w="210" h="-1" measuredW="175" measuredH="30" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>***********************</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="341" y="398" w="-1" h="-1" measuredW="103" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mot%20de%20passe</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="447" y="463" w="131" h="36" measuredW="131" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Accueil%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml%26bm%3BAccueil.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22447%2C463%2C578%2C499%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%2211%22/%3E</map>
+        <size>18</size>
+        <text>Se%20connecter</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1024" h="768" measuredW="1024" measuredH="768" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22VISITEUR%2520-%2520Legende.bmml%22%20alt%3D%22VISITEUR%20-%20Legende%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22VISITEUR%2520-%2520Item%2520-%2520Informations.bmml%22%20alt%3D%22VISITEUR%20-%20Item%20-%20Informations%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C77%2C1009%2C103%22%20href%3D%22Inscription.bmml%22%20alt%3D%22Inscription%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22VISITEUR%2520-%2520Recherche.bmml%22%20alt%3D%22VISITEUR%20-%20Recherche%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C77%2C907%2C103%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Infos.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Infos%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C120%2C40%2C140%22%20href%3D%22VISITEUR%2520-%2520Legende.bmml%22%20alt%3D%22VISITEUR%20-%20Legende%22%20id%3D%2216%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22416%2C440%2C448%2C472%22%20href%3D%22VISITEUR%2520-%2520Item%2520-%2520Informations.bmml%22%20alt%3D%22VISITEUR%20-%20Item%20-%20Informations%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22922%2C77%2C1009%2C103%22%20href%3D%22Inscription.bmml%22%20alt%3D%22Inscription%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C78%2C315%2C103%22%20href%3D%22VISITEUR%2520-%2520Recherche.bmml%22%20alt%3D%22VISITEUR%20-%20Recherche%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22820%2C77%2C907%2C103%22%20href%3D%22Accueil.bmml%22%20alt%3D%22Accueil%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22263%2C418%2C299%2C472%22%20href%3D%22VISITEUR%2520-%2520Entreprise%2520-%2520Infos.bmml%22%20alt%3D%22VISITEUR%20-%20Entreprise%20-%20Infos%22%20id%3D%2215%22/%3E</map>
+        <src>./assets/Header%20(Visiteur).bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="803" y="252" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <href>VISITEUR%20-%20Accueil%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml%26bm%3BVISITEUR%20-%20Accueil.bmml</href>
+        <icon>XIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22803%2C252%2C819%2C268%22%20href%3D%22VISITEUR%2520-%2520Accueil.bmml%22%20alt%3D%22VISITEUR%20-%20Accueil%22%20id%3D%2217%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="103" w="1020" h="637" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

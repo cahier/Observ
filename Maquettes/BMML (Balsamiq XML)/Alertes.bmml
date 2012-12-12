@@ -37,6 +37,8 @@
     </control>
     <control controlID="166" controlTypeID="com.balsamiq.mockups::Button" x="589" y="383" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Alertes%202%26bm%3BAlertes%202.bmml%26bm%3BAlertes%202.bmml%26bm%3BAlertes%202.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22589%2C383%2C659%2C410%22%20href%3D%22Alertes%25202.bmml%22%20alt%3D%22Alertes%202%22%20id%3D%22166%22/%3E</map>
         <text>Refuser</text>
       </controlProperties>
     </control>
