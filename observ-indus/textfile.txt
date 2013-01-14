@@ -1,0 +1,13 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+
+48.26807	4.07975	IUT	IUT de Troyes<br>12 rue marie curie 10000 TROYES <br><br><a href="www.utt.fr">www.utt.fr</a>)	http://observ-indus.s3.amazonaws.com/category_2.png	-8,-8
+
+48.26906	4.06698	UTT	Université technologique de Troyes<br>12 rue marie curie 10000 TROYES <br><br><a href="www.utt.fr">www.utt.fr</a>	http://observ-indus.s3.amazonaws.com/category_2.png	-8,-8
+
+48.23569	4.11263	Dislaub	3, Route Dijon 10800 Bucheres<br/><a href="http://www.dislaub.fr/Presentation-732.aspx" target='_blank'">www.dislaub.fr</a><br/>Site industriel<br/><br/><u>resume</u>: DISLAUB est specialisee dans la production d'alcool agricole et la regeneration d'alcools et de solvants.	http://observ-indus.s3.amazonaws.com/category_1.png	-8,-8
+
+48.25530	4.14610	ZAC du Parc logistique de l'Aube.<br><a href="http://www.parc-logistique-aube.com/index.php4?rubrique=157">http://www.parc-logistique-aube.com</a><br/>Site industriel<br/><br/><u>resume</u>:Uniforce Logistique (ex. Prologis France LX) figure parmi les nombreuses entreprises logistiques du Parc logistique de l'Aube.	http://observ-indus.s3.amazonaws.com/category_1.png	-8,-8
+
+
+48.49323    3.80598 Seveal  RN19 Z.I. de la Glaciere 10510 Maizieres-la-Grande-Paroisse<br><a href="http://www.seveal.com/" >http://www.seveal.com/</a><br/>Site industriel<br/><br/><u>resume</u>:agronomieeVeal organise et met en œuvre le référencement, l’achat, le stockage et la distribution des semences, engrais et produits de santé végétale les mieux adaptés aux besoins des agriculteurs et à leurs conditions de terroirs.	http://observ-indus.s3.amazonaws.com/category_1.png	-8,-8
+

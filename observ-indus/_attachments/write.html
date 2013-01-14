@@ -1,0 +1,45 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h2>Create Text file in JavaScript</h2>
+<script>
+function createFile(){
+var object = new ActiveXObject("Scripting.FileSystemObject");
+var file = object.CreateTextFile("C:\\Users\\Bibi\\Documents\\Hello.txt", false);
+file.WriteLine('Hello World');
+file.WriteLine('Hope is a thing with feathers, that perches on the soul.'); 
+file.Close();
+}
+</script>
+<input type="Button" value="Create File" onClick='createFile()'>
+        <script>
+//        function WriteFile()
+//{
+//
+//var fh = fopen("C:\\Users\\Bibi\\Documents\\test.txt", 3); // Open the file for writing
+//
+//if(fh!=-1) // If the file has been successfully opened
+//{
+//    var str = "Some text goes here...";
+//    fwrite(fh, str); // Write the string to a file
+//    //fclose(fh); // Close the file 
+//}
+//
+//}
+//
+//WriteFile();
+        
+    </script>
+        <div>TODO write content</div>
+    </body>
+    
+</html>
+

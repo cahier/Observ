@@ -1,0 +1,227 @@
+<!DOCTYPE html>  
+<html>  
+  <head>  
+    <title>ObservIndus</title>  
+    <link rel="stylesheet" href="style/main.css" type="text/css">  
+<span style="white-space: pre;"> </span><script src="/_utils/script/json2.js"></script>  
+<span style="white-space: pre;"> </span><script src="/_utils/script/jquery.js?1.3.1"></script>  
+<span style="white-space: pre;"> </span><script src="/_utils/script/jquery.couch.js?0.9.0"></script>  
+<span style="white-space: pre;"> </span><script type="text/javascript"></script>
+<span style="white-space: pre;"> </span><script src="http://www.openlayers.org/api/OpenLayers.js"></script>  
+     
+     
+    
+    
+   
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>ObservIndus</title>
+        
+    </head>
+    <body>
+        
+        
+        <!--  DIV CONTENU DE DROITE -->
+        <script>
+            
+            function check() {
+                
+                //location.reload();
+                var radioButtons = document.getElementsByName("siteType");
+                var siteType;
+                for (var i = 0; i < radioButtons.length; i ++) {
+                    if (radioButtons[i].checked) {
+                        siteType = radioButtons[i].value;
+                    }
+                }
+                map = new OpenLayers.Map("mapdiv");
+                map.addLayer(new OpenLayers.Layer.OSM());
+                //var markers = new OpenLayers.Layer.Markers( "Markers" );
+                //map.addLayer(markers);
+                
+                db = $.couch.db("observ-indus");
+                
+                db.view("observ-indus/"+siteType, {
+                        success: function(data) {
+                        var title = [];
+                        var lat = [];
+                        var lon = [];
+                        var address = [];
+                        var description = [];
+                        var website = [];
+                        var iconSize = [];
+                        var iconOffset = [];
+                        var icons = [];
+                        
+                        //map.removeLayer(markers);
+                        //markers.clearMarkers();
+                        
+                        for(i in data.rows){
+                        //Récupérer les titres et id des discussions liées
+                        if (data.rows[i].value.lat && data.rows[i].value.lon && data.rows[i].value.title){
+                            lat[i] = data.rows[i].value.lat;
+                            lon[i] = data.rows[i].value.lon;
+                            title[i] = data.rows[i].value.title;
+                            address[i] = data.rows[i].value.address;
+                            description[i] = data.rows[i].value.description;
+                            website[i] = data.rows[i].value.website;
+                            iconSize[i] = data.rows[i].value.iconSize;
+                            iconOffset[i] = data.rows[i].value.iconOffset;
+                            icons[i] = data.rows[i].value.icon;
+                            alert(title[i]+","+lat[i]+","+lon[i]+","+icons[i]+","+iconSize[i]+","+iconOffset[i]);
+                        /*
+                            var size = new OpenLayers.Size(iconSize[i]);
+                            var offset = new OpenLayers.Pixel(iconOffset[i]);
+                            var icon = new OpenLayers.Icon(icons[i], size, offset);
+                            markers.addMarker(new OpenLayers.Marker(new OpenLayers.LonLat(lat[i],lon[i]),icon.clone()));
+                         */
+                            
+                        }
+                        
+                        }
+                        //Layer.Markers.redraw();
+                        //markers.redraw(true);
+                         //map.addLayer(markers);
+                        
+                        //Set start centrepoint and zoom
+                        /*
+                        var lonLat = new OpenLayers.LonLat( 3.9463, 48.1952 )
+                        .transform(
+                                   new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                                   map.getProjectionObject() // to Spherical Mercator Projection
+                                   );
+                        var zoom=8;
+                        map.setCenter (lonLat, zoom);
+*/
+                        
+                        
+                        
+                        var pois = new OpenLayers.Layer.Text( "My Points",
+                                                             { location:"./textfile.txt",
+                                                             projection: map.displayProjection
+                                                             });
+                        map.addLayer(pois);
+                        
+                        
+                        //Set start centrepoint and zoom
+                        var lonLat = new OpenLayers.LonLat( 3.9463, 48.1952 )
+                        .transform(
+                                   new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                                   map.getProjectionObject() // to Spherical Mercator Projection
+                                   );
+                        var zoom=8;
+                        map.setCenter (lonLat, zoom);
+                        
+                        
+                        },
+                        error: function(status){
+                            //alert("erreur");
+                        }
+                         
+                        
+                        });
+            
+                
+            }
+
+            
+        </script>
+        
+        <div id="header" style="background-color: black; height: 25px;width: 100%">
+            <span style="float: left"><a href="http://www.ceiaube.fr" target="_blank"><img style="height: 100%" src="ceia.jpg" alt=""/></a></span>
+            
+            <span style="float: right">
+                <a href="myrelations.php" target="right" ><input  type="button" value="Mes partenariat" style="-moz-opacity:0.8;opacity: 0.8;filter:alpha(opacity=80)"/></a>
+                <a href="myaccount.php" target="right" ><input type="button" value="Mon Compte" style="-moz-opacity:0.8;opacity: 0.8;filter:alpha(opacity=80)"/></a>
+                <b style="color: silver;font-family: Arial">Bonjour <script>document.write(document.cookie);</script></b>
+            </span>
+        </div>
+        
+        <div id="mapdiv" style="width: 80%;height: 600px; float: left"></div>
+        
+        
+        <div id="content-right" style="width: 19%;height: 90%; float: right;padding-left:2px">
+            <h3>Bienvenue sur Observ-indus</h3>
+            Choisissez le type qui vous intéresse : <br/><br/>
+            
+            
+            <!--<div id="mondiv" style="display:block;">
+             
+             <input id="1" name="1" type="checkbox"/>Les sites industriels <br>
+             <input id="2" name="2" type="checkbox"/>Les sites non-industriels <br>
+             <input id="3" name="3" type="checkbox"/>Les initiatives <br>
+             <input id="4" name="4" type="checkbox"/>Les produits <br>
+             <br><br>
+             <!--<u>légende :</u>-->
+            <input type="radio" id="all" name="siteType" onclick="javascript:check()" value="observ-indus" checked="checked"/>Toutes les entreprises <br>
+            
+            
+            
+            <p><img id="ind" src="http://observ-indus.s3.amazonaws.com/category_6.png" alt=""/><input type="radio" name="siteType" value="site-industriel" onclick="javascript:check()"/>Site industriel
+        
+            <p><img id="non-ind" src="http://observ-indus.s3.amazonaws.com/category_3.png" alt=""/><input type="radio" name="siteType" value="site-non-industriel" onclick="javascript:check()"/>Site non industriel
+            
+            <p><img id="pdt" src="http://observ-indus.s3.amazonaws.com/category_2.png" alt=""/><input type="radio" name="siteType" value="produit" onclick="javascript:check()"/>Produit
+            
+            <p><img id="init" src="http://observ-indus.s3.amazonaws.com/category_7.png" alt=""/><input type="radio" name="siteType" value="initiative" onclick="javascript:check()"/>Initiative
+            
+            <p><img id="rsk" src="http://observ-indus.s3.amazonaws.com/category_1.png" alt=""/><input type="radio" name="siteType" value="risque" onclick="javascript:check()"/>Risque
+            
+            
+            <iframe id="right-frame" name="right" src="" frameBorder="0"  style="height: 100%; width: 100%" ></iframe>
+        </div>
+    
+    
+     <script>
+         
+            /*
+             *http://indus.agorae.hypertopic.org/argos/item/c449fa28df16cb0d184b22727b00534f/c449fa28df16cb0d184b22727b00974c
+             *
+             *ObservIndus/c449fa28df16cb0d184b22727b00974c
+             *
+             */
+         
+         
+            db = $.couch.db("observ-indus");
+            
+            db.view("observ-indus/observ-indus", {
+            	success: function(data) {
+	            var lat = [];
+            
+                        for(i in data.rows){
+                                //Récupérer les titres et id des discussions liées
+                                if (data.rows[i].value.lat){
+                                    lat[i] = data.rows[i].value.lat;
+                                   //alert(lat[i]); 
+                                    
+                                }
+                        }
+                        
+                        map = new OpenLayers.Map("mapdiv");
+            map.addLayer(new OpenLayers.Layer.OSM());
+
+            var pois = new OpenLayers.Layer.Text( "My Points",
+                            { location:"./textfile.txt",
+                            projection: map.displayProjection
+                            });
+            map.addLayer(pois);
+
+            //Set start centrepoint and zoom    
+            var lonLat = new OpenLayers.LonLat( 4.1463, 48.21952 )
+                .transform(
+                    new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                    map.getProjectionObject() // to Spherical Mercator Projection
+                );
+            var zoom=10;
+            map.setCenter (lonLat, zoom);
+            
+                   
+        },
+        error: function(status){
+            //alert("erreur");
+        } 
+   });
+        
+            
+        </script>
+  </body>  
+</html>  

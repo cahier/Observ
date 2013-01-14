@@ -1,0 +1,66 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+            <link rel="stylesheet" href="style/main.css" type="text/css">  
+<span style="white-space: pre;"> </span><script src="/_utils/script/json2.js"></script>  
+<span style="white-space: pre;"> </span><script src="/_utils/script/jquery.js?1.3.1"></script>  
+<span style="white-space: pre;"> </span><script src="/_utils/script/jquery.couch.js?0.9.0"></script>  
+<span style="white-space: pre;"> </span><script type="text/javascript"></script>
+    </head>
+    <body>
+    
+            
+        <h3>Mes informations</h3>
+    
+    <script>
+            /*
+             *http://indus.agorae.hypertopic.org/argos/item/c449fa28df16cb0d184b22727b00534f/c449fa28df16cb0d184b22727b00974c
+             *
+             *ObservIndus/c449fa28df16cb0d184b22727b00974c
+             *
+             */
+            
+            
+            db = $.couch.db("observ-indus");
+            
+            db.view("observ-indus/observ-indus", {
+            	success: function(data) {
+            
+                        for(i in data.rows){
+                                //Récupérer les titres et id des discussions liées
+                                if (data.rows[i].value.title == document.cookie){
+                                                                             var str = "<a href=\"home.php\" style=\"float: right\">Retour</a><h3>Mes informations</h3><table><tr><b>";
+                                             var str2 = "</b></tr><tr><td><u>adresse:</u></td><td> ";
+                                             var str3 = "</td></tr><tr><td><u>site:</u></td><td> ";
+                                             var str4 = "<br/></td></tr><tr><td><u>type:</u> </td><td>";
+                                             var str5 = "<br/></td></tr><tr><td><u>résumé: </u></td><td>";
+                                             var str6 = "<br/><br/></td></tr></table><a href=\"modify.php\">modifier vos informations</a><br/><br/>";
+
+                                             var address = data.rows[i].value.address;
+                                             var website = data.rows[i].value.website;
+                                             var type = data.rows[i].value.type;
+                                             var description = data.rows[i].value.description;                                  
+                                    document.write(str, document.cookie, str2, address, str3, website, str4, type, str5, description, str6);
+                                    
+                                }
+                        }
+                        
+        },
+        error: function(status){
+            //alert("erreur");
+        } 
+   });
+   </script>
+    
+        
+        <?php
+        // put your code here
+        ?>
+    </body>
+</html>
